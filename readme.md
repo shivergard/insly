@@ -5,7 +5,7 @@ Created expanded table structure , because more logical is to add language detai
 Added SQL file `database/sql/database.sql` and laravel migration files `database/migration`
 
 #Assignment 2
-This is actually too popular task (I suggest to change it) - for a last 3 years I have done it 3 times already . It even has already CheatSheet for popular languages in (rosettacode)[https://www.rosettacode.org/wiki/FizzBuzz].
+This is actually too popular task (I suggest to change it) - for a last 3 years I have done it 3 times already . It even has already CheatSheet for popular languages in [rosettacode](https://www.rosettacode.org/wiki/FizzBuzz).
 
 Added PHP file in `public/foobar.php`
 
